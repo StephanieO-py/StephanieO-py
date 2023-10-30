@@ -8,7 +8,7 @@
 
 -  🛠 Experienced with Python, R, SQL, Excel, HTML, CSS, Tableau and more
 -  🌱 I’m currently learning and growing my skillset in Deep Learning and Machine Learning algorithms.
--  📫 You can reach me at: (stephaniea.omwanda@gmail.com)
+-  📫 You can reach me at: (omwandastephanie@gmail.com)
 
 
 <!--
