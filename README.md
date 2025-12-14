@@ -12,6 +12,7 @@
 -  📫 You can reach me at: (omwandastephanie@gmail.com)
 
 
+<!--
 [![LinkedIn[1.2]][1], [![Stack Overflow[2.2]][2], [![Tableau[3.2]][3]
 
 [1.2]: https://img.freepik.com/premium-photo/vector-linkedin-icon-silhouettes-art-line-black-white-background-white_1215819-767.jpg?w=360
@@ -22,7 +23,7 @@
 [2]: https://stackoverflow.com/users/13233826/stephanie-omwanda
 [3]: https://public.tableau.com/app/profile/stephanie.omwanda/
 
-<!--
+
 **StephanieO-py/StephanieO-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
